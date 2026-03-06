@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -m -u -t -p | tr -d ' ' 
